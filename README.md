@@ -2,7 +2,7 @@
 ### a MGTC28 Python example
 This is a timer program written in Python  
 
-![times-up!](https://media.makeameme.org/created/times-up-5923e0.jpg)\
+![times-up!](Untitled.jpg)\
 timer.py is a simple Python script which dictates a game of stand up.
 Initially, the players will see the words "Player Stand".
 A random amount of time will be set for the time of the game.
